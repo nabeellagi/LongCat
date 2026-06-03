@@ -138,6 +138,23 @@ Same M2 screw + nylon nut approach as the console for securing the PCB. See `REA
 
 ---
 
+### PCB and Schematics Wiring
+
+<p align="center">
+  <img src="PCB/rawrenders/consoleschematic.png" alt="Console schematic" width="480"/>
+  <br/>
+  <img src="PCB/rawrenders/consolepcbnozones.png" alt="Console PCB without zones" width="480"/>
+  <br/>
+  <img src="PCB/rawrenders/consolepcb.png" alt="Console PCB" width="480"/>
+  <br/>
+  <img src="PCB/rawrenders/powerbankschematic.png" alt="Powerbank schematic" width="480"/>
+  <br/>
+  <img src="PCB/rawrenders/powerbankpcb.png" alt="Powerbank PCB" width="480"/>
+
+</p>
+
+---
+
 ## Repository Structure
 
 ```
@@ -296,3 +313,4 @@ Additional BOM :
 **Powerbank total: ~$6.19**
  
 ---
+
