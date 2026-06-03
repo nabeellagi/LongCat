@@ -186,24 +186,6 @@ Same M2 screw + nylon nut approach as the console for securing the PCB. See `REA
 
 ---
 
-## Bill of Materials
-
-Full BOM is split by subsystem for easier ordering:
-
-| File | Contents |
-|---|---|
-| `REAL_BOM/console.csv` | All console PCB components |
-| `REAL_BOM/powerbank.csv` | All powerbank PCB components |
-| `REAL_BOM/all.xlsx` | Combined, formatted |
-| `REAL_BOM/total.csv` | Grand total cost summary |
-
-Additional BOM :
-
-1. `PCB/board/production/bom.csv-JLCPCB BOM Tool.xls`  is JLCPCB-formatted, ready to upload 
-2. For the powerbank PCB, the Interactive BOM HTML (`PCB/powerbank/INTERACTIVE BOM/InteractiveBOM_PCB1_2026-5-30.html`) is the friendliest way to cross-reference components with their board placement.
-
----
-
 ## Stickers
 
 Three stickers are included in `stickers/`. Print them on sticker paper and apply accordingly.
@@ -224,4 +206,93 @@ The `zine/` folder contains both a PDF and PNG version of the project zine, made
 
 An example given inside firmware folder. A simple mechanism to see OLED's output based on button presses. Use it as a starting point for your own games!
 
+---
+
+## OnShape Links
+- [Check out the console enclosure](https://cad.onshape.com/documents/60f1f5947965f7d5a461c6ea/w/f31938c96fb582cd81c805fc/e/fdd6c70c168f7e2d293480c5?renderMode=0&uiState=6a1faab33bd1e6d24cdd9844)
+- [Check out the powerbank enclosure](https://cad.onshape.com/documents/b2bd0c68b06dcbd9cb3796b5/w/1a262ecd5f3c2cdca41969fa/e/07a6aa8a28141834d2369848?renderMode=0&uiState=6a1faae954f1b396560d079b)
+
+## Bill of Materials
+
+Full BOM is split by subsystem for easier ordering:
+
+| File | Contents |
+|---|---|
+| `REAL_BOM/console.csv` | All console PCB components |
+| `REAL_BOM/powerbank.csv` | All powerbank PCB components |
+| `REAL_BOM/all.xlsx` | Combined, formatted |
+| `REAL_BOM/total.csv` | Grand total cost summary |
+
+Additional BOM :
+
+1. `PCB/board/production/bom.csv-JLCPCB BOM Tool.xls`  is JLCPCB-formatted, ready to upload 
+2. For the powerbank PCB, the Interactive BOM HTML (`PCB/powerbank/INTERACTIVE BOM/InteractiveBOM_PCB1_2026-5-30.html`) is the friendliest way to cross-reference components with their board placement.
+
+### Console BOM
+ 
+| # | Item | Description | Qty | Unit ($) | Total ($) | Link |
+|---|---|---|---|---|---|---|
+| 1 | ESPRESSIF ESP32-C6-WROOM-1-N8 | ESP32 Chip | 1 | 4.3546 | 4.3546 | [LCSC](https://www.lcsc.com/product-detail/C5366877.html) |
+| 2 | TECH PUBLIC TPESD9B3.3ST5G | Diode | 3 | 0.0396 | 0.1188 | [LCSC](https://www.lcsc.com/product-detail/C2682285.html) |
+| 3 | TECH PUBLIC USBLC6-2SC6 | Transient Voltage Suppressor | 1 | 0.041 | 0.041 | [LCSC](https://www.lcsc.com/product-detail/C2827654.html) |
+| 4 | BZCN TSC016A04518A | Tactile Switches (console buttons) | 5 | 0.0107 | 0.0535 | [LCSC](https://www.lcsc.com/product-detail/C2888493.html) |
+| 5 | TI LM1117MP-3.3 | Voltage Regulator | 1 | 0.2975 | 0.2975 | [LCSC](https://www.lcsc.com/product-detail/C3750685.html) |
+| 6 | XHXDZ 1207-P6.5MM | Buzzer | 1 | 0.0316 | 0.0316 | [LCSC](https://www.lcsc.com/product-detail/C49246964.html) |
+| 7 | 1N5817W | Diode Schottky | 1 | 0.0197 | 0.0197 | [LCSC](https://www.lcsc.com/product-detail/C727113.html) |
+| 8 | MMBT2222A | Bipolar Transistor | 1 | 0.0155 | 0.0155 | [LCSC](https://www.lcsc.com/product-detail/C7420351.html) |
+| 9 | HS HS13L03W2C01 | 1.3" OLED | 1 | 5.3558 | 5.3558 | [LCSC](https://www.lcsc.com/product-detail/C7465997.html) |
+| 10 | muRata BLM21PG220SN1D | Ferrite Bead | 1 | 0.0308 | 0.0308 | [LCSC](https://www.lcsc.com/product-detail/C88993.html) |
+| 11 | Resistor 1kΩ | R6 | 1 | 0.0011 | 0.0011 | [LCSC](https://www.lcsc.com/product-detail/C11702.html) |
+| 12 | Capacitor 100nF | C2, C5 | 2 | 0.0016 | 0.0032 | [LCSC](https://www.lcsc.com/product-detail/C1525.html) |
+| 13 | Capacitor 1uF | C3, C4 | 2 | 0.0098 | 0.0196 | [LCSC](https://www.lcsc.com/product-detail/C15849.html) |
+| 14 | Korean Hroparts TYPE-C-31-M-12 | USB-C Input | 1 | 0.1725 | 0.1725 | [LCSC](https://www.lcsc.com/product-detail/C165948.html) |
+| 15 | Capacitor 10uF | C1 | 1 | 0.25 | 0.25 | [LCSC](https://www.lcsc.com/product-detail/C19702.html) |
+| 16 | B3U-1000P | ESP32 Buttons | 3 | 0.1781 | 0.5343 | [LCSC](https://www.lcsc.com/product-detail/C231329.html) |
+| 17 | Resistor 2.2kΩ | R7, R8 | 2 | 0.0008 | 0.0008 | [LCSC](https://www.lcsc.com/product-detail/C25879.html) |
+| 18 | Resistor 5.1kΩ | R4, R5 | 2 | 0.0009 | 0.0018 | [LCSC](https://www.lcsc.com/product-detail/C25905.html) |
+| 19 | Capacitor 22uF | C6, C7 | 2 | 0.0618 | 0.1236 | [LCSC](https://www.lcsc.com/product-detail/C45783.html) |
+| 20 | R+O SMD1206-050-30 | Reset Fuse | 1 | 0.0599 | 0.0599 | [LCSC](https://www.lcsc.com/product-detail/C46641016.html) |
+| 21 | ZHOURI 2.54-2*3 | Pin Header | 1 | 0.0562 | 0.0562 | [LCSC](https://www.lcsc.com/product-detail/C5116479.html) |
+| 22 | Resistor 10kΩ | R1, R2, R3 | 3 | 0.0009 | 0.0027 | [LCSC](https://www.lcsc.com/product-detail/C60490.html) |
+| 23 | 6×2mm Neodymium Magnet | Enclosure attach/detach | 6 | 0.053 | 0.318 | [Tokopedia](https://tk.tokopedia.com/ZSxcDM12f/) |
+| 24 | M2×8 Screw | Screw PCB to enclosure | 4 | 0.05 | 0.20 | [Tokopedia](https://tk.tokopedia.com/ZSxcDKrx9/) |
+| 25 | M2 Nylon Nut | Lock the screw | 4 | 0.054 | 0.216 | [Tokopedia](https://tk.tokopedia.com/ZSxcP4PVw/) |
+ 
+**Console total: ~$12.28**
+
+---
+
+### FoxCharge Powerbank BOM
+ 
+| # | Item | Description | Qty | Unit ($) | Total ($) | Link |
+|---|---|---|---|---|---|---|
+| 1 | TPOWER TP4056 | Charging Module | 1 | 0.1194 | 0.1194 | [LCSC](https://www.lcsc.com/product-detail/C382139.html) |
+| 2 | PUOLOP DW01A | Battery Protection (overcharge prevention) | 1 | 0.0428 | 0.0428 | [LCSC](https://www.lcsc.com/product-detail/C351410.html) |
+| 3 | XI'AN Aerosemi Tech MT3608 | Boost Step-Up Regulator | 1 | 0.0786 | 0.0786 | [LCSC](https://www.lcsc.com/product-detail/C84817.html) |
+| 4 | TECH PUBLIC FS8205A | LiPo Battery Protection FET | 1 | 0.0575 | 0.0575 | [LCSC](https://www.lcsc.com/product-detail/C2830320.html) |
+| 5 | SHOU HAN TYPE-C 16PIN 2MD(073) | USB-C Input and Output | 2 | 0.0742 | 0.1484 | [LCSC](https://www.lcsc.com/product-detail/C2765186.html) |
+| 6 | Hubei KENTO KT-0603R | Red LED | 1 | 0.007 | 0.007 | [LCSC](https://www.lcsc.com/product-detail/C2286.html) |
+| 7 | Hubei KENTO KT-0805G | Green LED | 1 | 0.0163 | 0.0163 | [LCSC](https://www.lcsc.com/product-detail/C2297.html) |
+| 8 | EVERLIGHT 19-213/BHC-ZL1M2RY/5T | Blue LED | 1 | 0.0381 | 0.0381 | [LCSC](https://www.lcsc.com/product-detail/C2987539.html) |
+| 9 | cjiang FXL0420-4R7-M | Inductor 4.7µH | 1 | 0.2076 | 0.2076 | [LCSC](https://www.lcsc.com/product-detail/C167208.html) |
+| 10 | JST S2B-PH-SM4-TB(LF)(SN) | JST Pin for Battery | 1 | 0.204 | 0.204 | [LCSC](https://www.lcsc.com/product-detail/C295747.html) |
+| 11 | LiPo 104050 2000mAh 3.7V | Battery | 1 | 4.83 | 4.83 | [Tokopedia](https://tk.tokopedia.com/ZSxtYCQTL/) |
+| 12 | Resistor 5.1kΩ | R1, R2 | 2 | 0.0003 | 0.0006 | [LCSC](https://www.lcsc.com/product-detail/C23186.html) |
+| 13 | Resistor 470Ω | R3, R4 | 2 | 0.0003 | 0.0006 | [LCSC](https://www.lcsc.com/product-detail/C23179.html) |
+| 14 | Resistor 10kΩ | R5 | 1 | 0.0003 | 0.0003 | [LCSC](https://www.lcsc.com/product-detail/C25804.html) |
+| 15 | Resistor 1.2kΩ | R6 | 1 | 0.0003 | 0.0003 | [LCSC](https://www.lcsc.com/product-detail/C114605.html) |
+| 16 | Resistor 1kΩ | R7, R12 | 2 | 0.0003 | 0.0006 | [LCSC](https://www.lcsc.com/product-detail/C22548.html) |
+| 17 | Resistor 110kΩ | R8 | 1 | 0.0002 | 0.0002 | [LCSC](https://www.lcsc.com/product-detail/C25805.html) |
+| 18 | Resistor 15kΩ | R9 | 1 | 0.0003 | 0.0003 | [LCSC](https://www.lcsc.com/product-detail/C114661.html) |
+| 19 | Resistor 56kΩ | R10, R11 | 2 | 0.0003 | 0.0006 | [LCSC](https://www.lcsc.com/product-detail/C23206.html) |
+| 20 | Resistor 100Ω | R13 | 1 | 0.0003 | 0.0003 | [LCSC](https://www.lcsc.com/product-detail/C105588.html) |
+| 21 | Capacitor 10uF | C1, C2 | 2 | 0.0019 | 0.0038 | [LCSC](https://www.lcsc.com/product-detail/C19702.html) |
+| 22 | Capacitor 22uF | C3, C4 | 2 | 0.0027 | 0.0054 | [LCSC](https://www.lcsc.com/product-detail/C86295.html) |
+| 23 | Capacitor 100nF | C6 | 1 | 0.0003 | 0.0003 | [LCSC](https://www.lcsc.com/product-detail/C160831.html) |
+| 24 | 3M Dual Lock Fastener 24mm×50cm | Enclosure attach/detach (use 3mm×3mm pieces) | 6 | 0.001 | 0.006 | [Tokopedia](https://tk.tokopedia.com/ZSxcDnUcT/) |
+| 25 | M2×8 Screw | Screw PCB to enclosure | 4 | 0.05 | 0.20 | [Tokopedia](https://tk.tokopedia.com/ZSxcDKrx9/) |
+| 26 | M2 Nylon Nut | Lock the screw | 4 | 0.054 | 0.216 | [Tokopedia](https://tk.tokopedia.com/ZSxc5xuDv/) |
+ 
+**Powerbank total: ~$6.19**
+ 
 ---
