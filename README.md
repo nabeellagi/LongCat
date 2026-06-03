@@ -214,14 +214,14 @@ An example given inside firmware folder. A simple mechanism to see OLED's output
 
 ## Bill of Materials
 
-Full BOM is split by subsystem for easier ordering:
+Full BOM is split by subsystem for easier ordering, here are the BOM links:
 
 | File | Contents |
 |---|---|
-| `REAL_BOM/console.csv` | All console PCB components |
-| `REAL_BOM/powerbank.csv` | All powerbank PCB components |
-| `REAL_BOM/all.xlsx` | Combined, formatted |
-| `REAL_BOM/total.csv` | Grand total cost summary |
+| [`REAL_BOM/console.csv`](https://github.com/nabeellagi/LongCat/blob/main/REAL_BOM/console.csv) | All console PCB components |
+| [`REAL_BOM/powerbank.csv`](https://github.com/nabeellagi/LongCat/blob/main/REAL_BOM/powerbank.csv) | All powerbank PCB components |
+| [`REAL_BOM/all.xlsx`](https://github.com/nabeellagi/LongCat/blob/main/REAL_BOM/all.xlsx) | Combined, formatted |
+| [`REAL_BOM/total.csv`](https://github.com/nabeellagi/LongCat/blob/main/REAL_BOM/total.csv) | Grand total cost summary |
 
 Additional BOM :
 
