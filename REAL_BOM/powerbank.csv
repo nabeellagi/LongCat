@@ -1,0 +1,27 @@
+Number,Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Running Total ($ with Tax)
+1,TPOWER TP4056,Charging Module,1,0.1194,0.1194,https://www.lcsc.com/product-detail/C382139.html?globalKeyword=C382139&s_z=n_q_C382139,0.1194
+2,PUOLOP DW01A,"Battery protection, prevents overcharging",1,0.0428,0.0428,https://www.lcsc.com/product-detail/C351410.html?globalKeyword=C351410&s_z=n_q_C351410,0.1622
+3,XI'AN Aerosemi Tech MT3608,Boost Step-Up Regulator ,1,0.0786,0.0786,https://www.lcsc.com/product-detail/C84817.html?globalKeyword=C84817&s_z=n_q_C84817,0.2408
+4,TECH PUBLIC FS8205A,LiPo Battery Protection,,0.0575,0.0575,https://www.lcsc.com/product-detail/C2830320.html?globalKeyword=C2830320&s_z=n_q_C2830320,0.2983
+5,SHOU HAN TYPE-C 16PIN 2MD(073),USB C Input and Output,2,0.0742,0.1484,https://www.lcsc.com/product-detail/C2765186.html?globalKeyword=C2765186&s_z=n_q_C2765186,0.4467
+6,Hubei KENTO Elec KT-0603R,Red Led,1,0.007,0.007,https://www.lcsc.com/product-detail/C2286.html?globalKeyword=C2286&s_z=n_q_C2286,0.4537
+7,Hubei KENTO Elec KT-0805G,Green Led,1,0.0163,0.0163,https://www.lcsc.com/product-detail/C2297.html?globalKeyword=C2297&s_z=n_q_C2297,0.47
+8,EVERLIGHT 19-213/BHC-ZL1M2RY/5T,Blue Led,1,0.0381,0.0381,https://www.lcsc.com/product-detail/C2987539.html?globalKeyword=C2987539&s_z=n_q_C2987539,0.5081
+9,cjiang FXL0420-4R7-M,Inductor,1,0.2076,0.2076,https://www.lcsc.com/product-detail/C167208.html?globalKeyword=C167208&s_z=n_q_C167208,0.7157
+10,JST S2B-PH-SM4-TB(LF)(SN),JST Pin for Battery,1,0.204,0.204,https://www.lcsc.com/product-detail/C295747.html?globalKeyword=C295747&s_z=n_q_C295747,0.9197
+11,LiPo 104050 2000mAh 3.7V,Battery,1,4.83,4.83,https://tk.tokopedia.com/ZSxtYCQTL/,5.7497
+12,Resistor 5.1kΩ,"R1,R2",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C23186.html,5.7503
+13,Resistor 470Ω,"R3,R4",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C23179.html,5.7509
+14,Resistor 10kΩ,R5,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C25804.html,5.7512
+15,Resistor 1.2kΩ,R6,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C114605.html,5.7515
+16,Resistor 1kΩ,"R7,R12",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C22548.html,5.7521
+17,Resistor 110kΩ,R8,1,0.0002,0.0002,https://www.lcsc.com/product-detail/C25805.html,5.7523
+18,Resistor 15kΩ,R9,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C114661.html,5.7526
+19,Resistor 56kΩ,"R10,R11",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C23206.html,5.7532
+20,Resistor 100Ω,R13,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C105588.html,5.7535
+21,Capacitor 10uF,"C1,C2",2,0.0019,0.0038,https://www.lcsc.com/product-detail/C19702.html,5.7573
+22,Capacitor 22uF,"C3,C4",2,0.0027,0.0054,https://www.lcsc.com/product-detail/C86295.html,5.7627
+23,Capacitor 100nF,C6,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C160831.html,5.763
+24,3M Dual Lock Reclosable Fastener 24mm x 50cm Velcro acc (Usage 3mm x 3mm),To make powerbank easy to attach-dettach,6,0.001,0.006,https://tk.tokopedia.com/ZSxcDnUcT/,5.769
+25,M2X8 Screw,Screw PCB to enclosure,4,0.05,0.2,https://tk.tokopedia.com/ZSxcDKrx9/,5.969
+26,M2 Nylon Nut,Locking the screw,4,0.054,0.216,https://tk.tokopedia.com/ZSxc5xuDv/,6.185
