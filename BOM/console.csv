@@ -24,3 +24,6 @@ Number,Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Running Tota
 23,6x2mm Strong Magnet Neodymium,To make the enclosure easy to attach-dettach,6,0.053,0.318,https://tk.tokopedia.com/ZSxcDM12f/,11.8625
 24,M2X8 Screw,Screw PCB to enclosure,4,0.05,0.2,https://tk.tokopedia.com/ZSxcDKrx9/,12.0625
 25,M2 Nylon Nut,Locking the screw,4,0.054,0.216,https://tk.tokopedia.com/ZSxcP4PVw/,12.2785
+26,Engineering Fee,Engineering Fee,1,24,24,https://jlcpcb.com/,36.2785
+27,PCB Board,PCB Board,1,1.6,1.6,https://jlcpcb.com/,37.8785
+28,PCBA Price,If enabled PCBA option,1,42.17,42.17,https://jlcpcb.com/,80.0485

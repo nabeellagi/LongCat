@@ -24,29 +24,34 @@ Number,Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Source,Runni
 23,6x2mm Strong Magnet Neodymium,To make the enclosure easy to attach-dettach,6,0.053,0.318,https://tk.tokopedia.com/ZSxcDM12f/,Console,11.8625
 24,M2X8 Screw,Screw PCB to enclosure,4,0.05,0.2,https://tk.tokopedia.com/ZSxcDKrx9/,Console,12.0625
 25,M2 Nylon Nut,Locking the screw,4,0.054,0.216,https://tk.tokopedia.com/ZSxcP4PVw/,Console,12.2785
-26,TPOWER TP4056,Charging Module,1,0.1194,0.1194,https://www.lcsc.com/product-detail/C382139.html?globalKeyword=C382139&s_z=n_q_C382139,Powerbank,12.3979
-27,PUOLOP DW01A,"Battery protection, prevents overcharging",1,0.0428,0.0428,https://www.lcsc.com/product-detail/C351410.html?globalKeyword=C351410&s_z=n_q_C351410,Powerbank,12.4407
-28,XI'AN Aerosemi Tech MT3608,Boost Step-Up Regulator,1,0.0786,0.0786,https://www.lcsc.com/product-detail/C84817.html?globalKeyword=C84817&s_z=n_q_C84817,Powerbank,12.5193
-29,TECH PUBLIC FS8205A,LiPo Battery Protection,1,0.0575,0.0575,https://www.lcsc.com/product-detail/C2830320.html?globalKeyword=C2830320&s_z=n_q_C2830320,Powerbank,12.5768
-30,SHOU HAN TYPE-C 16PIN 2MD(073),USB C Input and Output,2,0.0742,0.1484,https://www.lcsc.com/product-detail/C2765186.html?globalKeyword=C2765186&s_z=n_q_C2765186,Powerbank,12.7252
-31,Hubei KENTO Elec KT-0603R,Red Led,1,0.007,0.007,https://www.lcsc.com/product-detail/C2286.html?globalKeyword=C2286&s_z=n_q_C2286,Powerbank,12.7322
-32,Hubei KENTO Elec KT-0805G,Green Led,1,0.0163,0.0163,https://www.lcsc.com/product-detail/C2297.html?globalKeyword=C2297&s_z=n_q_C2297,Powerbank,12.7485
-33,EVERLIGHT 19-213/BHC-ZL1M2RY/5T,Blue Led,1,0.0381,0.0381,https://www.lcsc.com/product-detail/C2987539.html?globalKeyword=C2987539&s_z=n_q_C2987539,Powerbank,12.7866
-34,cjiang FXL0420-4R7-M,Inductor,1,0.2076,0.2076,https://www.lcsc.com/product-detail/C167208.html?globalKeyword=C167208&s_z=n_q_C167208,Powerbank,12.9942
-35,JST S2B-PH-SM4-TB(LF)(SN),JST Pin for Battery,1,0.204,0.204,https://www.lcsc.com/product-detail/C295747.html?globalKeyword=C295747&s_z=n_q_C295747,Powerbank,13.1982
-36,LiPo 104050 2000mAh 3.7V,Battery,1,4.83,4.83,https://tk.tokopedia.com/ZSxtYCQTL/,Powerbank,18.0282
-37,Resistor 5.1kΩ,"R1,R2",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C23186.html,Powerbank,18.0288
-38,Resistor 470Ω,"R3,R4",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C23179.html,Powerbank,18.0294
-39,Resistor 10kΩ,R5,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C25804.html,Powerbank,18.0297
-40,Resistor 1.2kΩ,R6,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C114605.html,Powerbank,18.03
-41,Resistor 1kΩ,"R7,R12",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C22548.html,Powerbank,18.0306
-42,Resistor 110kΩ,R8,1,0.0002,0.0002,https://www.lcsc.com/product-detail/C25805.html,Powerbank,18.0308
-43,Resistor 15kΩ,R9,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C114661.html,Powerbank,18.0311
-44,Resistor 56kΩ,"R10,R11",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C23206.html,Powerbank,18.0317
-45,Resistor 100Ω,R13,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C105588.html,Powerbank,18.032
-46,Capacitor 10uF,"C1,C2",2,0.0019,0.0038,https://www.lcsc.com/product-detail/C19702.html,Powerbank,18.0358
-47,Capacitor 22uF,"C3,C4",2,0.0027,0.0054,https://www.lcsc.com/product-detail/C86295.html,Powerbank,18.0412
-48,Capacitor 100nF,C6,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C160831.html,Powerbank,18.0415
-49,3M Dual Lock Reclosable Fastener 24mm x 50cm Velcro acc (Usage 3mm x 3mm),To make powerbank easy to attach-dettach,6,0.001,0.006,https://tk.tokopedia.com/ZSxcDnUcT/,Powerbank,18.0475
-50,M2X8 Screw,Screw PCB to enclosure,4,0.05,0.2,https://tk.tokopedia.com/ZSxcDKrx9/,Powerbank,18.2475
-51,M2 Nylon Nut,Locking the screw,4,0.054,0.216,https://tk.tokopedia.com/ZSxc5xuDv/,Powerbank,18.4635
+26,Engineering Fee,Engineering Fee,1,24.0,24.0,https://jlcpcb.com/,Console,36.2785
+27,PCB Board,PCB Board,1,1.6,1.6,https://jlcpcb.com/,Console,37.8785
+28,PCBA Price,If enabled PCBA option,1,42.17,42.17,https://jlcpcb.com/,Console,80.0485
+29,TPOWER TP4056,Charging Module,1,0.1194,0.1194,https://www.lcsc.com/product-detail/C382139.html?globalKeyword=C382139&s_z=n_q_C382139,Powerbank,80.1679
+30,PUOLOP DW01A,"Battery protection, prevents overcharging",1,0.0428,0.0428,https://www.lcsc.com/product-detail/C351410.html?globalKeyword=C351410&s_z=n_q_C351410,Powerbank,80.2107
+31,XI'AN Aerosemi Tech MT3608,Boost Step-Up Regulator,1,0.0786,0.0786,https://www.lcsc.com/product-detail/C84817.html?globalKeyword=C84817&s_z=n_q_C84817,Powerbank,80.2893
+32,TECH PUBLIC FS8205A,LiPo Battery Protection,1,0.0575,0.0575,https://www.lcsc.com/product-detail/C2830320.html?globalKeyword=C2830320&s_z=n_q_C2830320,Powerbank,80.3468
+33,SHOU HAN TYPE-C 16PIN 2MD(073),USB C Input and Output,2,0.0742,0.1484,https://www.lcsc.com/product-detail/C2765186.html?globalKeyword=C2765186&s_z=n_q_C2765186,Powerbank,80.4952
+34,Hubei KENTO Elec KT-0603R,Red Led,1,0.007,0.007,https://www.lcsc.com/product-detail/C2286.html?globalKeyword=C2286&s_z=n_q_C2286,Powerbank,80.5022
+35,Hubei KENTO Elec KT-0805G,Green Led,1,0.0163,0.0163,https://www.lcsc.com/product-detail/C2297.html?globalKeyword=C2297&s_z=n_q_C2297,Powerbank,80.5185
+36,EVERLIGHT 19-213/BHC-ZL1M2RY/5T,Blue Led,1,0.0381,0.0381,https://www.lcsc.com/product-detail/C2987539.html?globalKeyword=C2987539&s_z=n_q_C2987539,Powerbank,80.5566
+37,cjiang FXL0420-4R7-M,Inductor,1,0.2076,0.2076,https://www.lcsc.com/product-detail/C167208.html?globalKeyword=C167208&s_z=n_q_C167208,Powerbank,80.7642
+38,JST S2B-PH-SM4-TB(LF)(SN),JST Pin for Battery,1,0.204,0.204,https://www.lcsc.com/product-detail/C295747.html?globalKeyword=C295747&s_z=n_q_C295747,Powerbank,80.9682
+39,LiPo 104050 2000mAh 3.7V,Battery,1,4.83,4.83,https://tk.tokopedia.com/ZSxtYCQTL/,Powerbank,85.7982
+40,Resistor 5.1kΩ,"R1,R2",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C23186.html,Powerbank,85.7988
+41,Resistor 470Ω,"R3,R4",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C23179.html,Powerbank,85.7994
+42,Resistor 10kΩ,R5,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C25804.html,Powerbank,85.7997
+43,Resistor 1.2kΩ,R6,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C114605.html,Powerbank,85.8
+44,Resistor 1kΩ,"R7,R12",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C22548.html,Powerbank,85.8006
+45,Resistor 110kΩ,R8,1,0.0002,0.0002,https://www.lcsc.com/product-detail/C25805.html,Powerbank,85.8008
+46,Resistor 15kΩ,R9,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C114661.html,Powerbank,85.8011
+47,Resistor 56kΩ,"R10,R11",2,0.0003,0.0006,https://www.lcsc.com/product-detail/C23206.html,Powerbank,85.8017
+48,Resistor 100Ω,R13,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C105588.html,Powerbank,85.802
+49,Capacitor 10uF,"C1,C2",2,0.0019,0.0038,https://www.lcsc.com/product-detail/C19702.html,Powerbank,85.8058
+50,Capacitor 22uF,"C3,C4",2,0.0027,0.0054,https://www.lcsc.com/product-detail/C86295.html,Powerbank,85.8112
+51,Capacitor 100nF,C6,1,0.0003,0.0003,https://www.lcsc.com/product-detail/C160831.html,Powerbank,85.8115
+52,3M Dual Lock Reclosable Fastener 24mm x 50cm Velcro acc (Usage 3mm x 3mm),To make powerbank easy to attach-dettach,6,0.001,0.006,https://tk.tokopedia.com/ZSxcDnUcT/,Powerbank,85.8175
+53,M2X8 Screw,Screw PCB to enclosure,4,0.05,0.2,https://tk.tokopedia.com/ZSxcDKrx9/,Powerbank,86.0175
+54,M2 Nylon Nut,Locking the screw,4,0.054,0.216,https://tk.tokopedia.com/ZSxc5xuDv/,Powerbank,86.2335
+55,PCB Board,PCB Board,1,1.0,1.0,https://jlcpcb.com/,Powerbank,87.2335
+56,PCBA Price,If enabled PCBA option,1,70.25,70.25,https://jlcpcb.com/,Powerbank,157.4835
